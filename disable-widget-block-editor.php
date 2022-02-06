@@ -2,7 +2,6 @@
 
 /**
  * Plugin Name: Disable WP Widget Block Editor
- * Plugin URI: https://www.sumner.co.uk/
  * Description: Activate this plugin to disable the Widget Block Editor.
  * Tags: widget, block, editor, gutenberg, disable
  * Author: Michael Bryan Sumner
