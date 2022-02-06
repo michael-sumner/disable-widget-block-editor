@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Disable Widget Block Editor
+ * Plugin Name: Disable WP Widget Block Editor
  * Plugin URI: https://www.sumner.co.uk/
  * Description: Activate this plugin to disable the Widget Block Editor.
  * Tags: widget, block, editor, gutenberg, disable
@@ -13,7 +13,7 @@
  * Stable tag: 1.0.0
  * Version: 1.0.0
  * Requires PHP: 5.6.20
- * Text Domain: disable-widget-block-editor
+ * Text Domain: disable-wp-widget-block-editor
  * Domain Path: /languages
  * License: GPL v2 or later
  */

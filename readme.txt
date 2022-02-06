@@ -1,8 +1,8 @@
 === Disable Widget Block Editor ===
 
-Plugin Name: Disable Widget Block Editor
+Plugin Name: Disable WP Widget Block Editor
 Plugin URI: https://www.sumner.co.uk/
-Description: Activate this plugin to disable the Widget Block Editor.
+Description: Activate this plugin to disable the WP Widget Block Editor.
 Tags: widget, block, editor, gutenberg, disable
 Author: Michael Bryan Sumner
 Author URI: https://www.sumner.co.uk/
@@ -12,7 +12,7 @@ Tested up to: 5.9
 Stable tag: 1.0.0
 Version: 1.0.0
 Requires PHP: 5.6.20
-Text Domain: disable-widget-block-editor
+Text Domain: disable-wp-widget-block-editor
 Domain Path: /languages
 License: GPL v2 or later
 
@@ -77,10 +77,4 @@ Yes, just disable the plugin. Without the plugin, WordPress will revert to its o
 **Got a question?**
 
 Send any questions or feedback in the support section.
-
-
-
-== Changelog ==
-
-https://github.com/michael-sumner/disable-widget-block-editor
 
