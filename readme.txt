@@ -2,12 +2,13 @@
 
 Plugin Name: Disable WP Widget Block Editor
 Description: Activate this plugin to disable the WP Widget Block Editor.
+Contributors: xmic
 Tags: widget, block, editor, gutenberg, disable
 Author: Michael Bryan Sumner
 Author URI: https://www.sumner.co.uk/
 Donate link: https://ko-fi.com/michaelsumner
 Requires at least: 5.8
-Tested up to: 5.9
+Tested up to: 5.9.1
 Stable tag: 1.0.0
 Version: 1.0.0
 Requires PHP: 5.6.20
