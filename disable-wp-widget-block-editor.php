@@ -10,8 +10,8 @@
  * Donate link: https://ko-fi.com/michaelsumner
  * Requires at least: 5.8
  * Tested up to: 6.1.1
- * Stable tag: 1.0.0
- * Version: 1.0.0
+ * Stable tag: 1.0.1
+ * Version: 1.0.1
  * Requires PHP: 5.6.20
  * Text Domain: disable-wp-widget-block-editor
  * Domain Path: /languages
@@ -32,9 +32,9 @@
  * Copyright 2022 Bioneer Limited. All rights reserved.
  */
 
-if ( ! defined( 'ABSPATH' ) ) {
-	die();
+if (!defined('ABSPATH')) {
+    die();
 }
 
-add_filter( 'gutenberg_use_widgets_block_editor', '__return_false' );
-add_filter( 'use_widgets_block_editor', '__return_false' );
+add_filter('gutenberg_use_widgets_block_editor', '__return_false');
+add_filter('use_widgets_block_editor', '__return_false');
