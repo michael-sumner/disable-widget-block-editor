@@ -32,9 +32,9 @@
  * Copyright 2022 Bioneer Limited. All rights reserved.
  */
 
-if (!defined('ABSPATH')) {
-    die();
+if ( ! defined( 'ABSPATH' ) ) {
+	die();
 }
 
-add_filter('gutenberg_use_widgets_block_editor', '__return_false');
-add_filter('use_widgets_block_editor', '__return_false');
+add_filter( 'gutenberg_use_widgets_block_editor', '__return_false' );
+add_filter( 'use_widgets_block_editor', '__return_false' );
