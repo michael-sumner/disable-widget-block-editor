@@ -5,11 +5,11 @@
  * Description: Activate this plugin to disable the Widget Block Editor.
  * Contributors: xmic
  * Tags: widget, block, editor, gutenberg, disable
- * Author: Michael Bryan Sumner
+ * Author: Michael Sumner
  * Author URI: https://www.sumner.co.uk/
  * Donate link: https://ko-fi.com/michaelsumner
  * Requires at least: 5.8
- * Tested up to: 5.9.1
+ * Tested up to: 6.1.1
  * Stable tag: 1.0.0
  * Version: 1.0.0
  * Requires PHP: 5.6.20
